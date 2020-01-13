@@ -1,0 +1,1 @@
+This repo is a repository for storing a hodge podge of Cosmos SDK modules, that can be useful to other SDK developers.
